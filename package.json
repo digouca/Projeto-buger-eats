@@ -6,7 +6,7 @@
   "scripts": {
     "test": "npx cypress open"
   },
-  "author": "Lucas Rodrigo",
+  "author": "Lucas Rodrigo de Oliveira",
   "license": "MIT",
   "devDependencies": {
     "cypress": "^9.5.4",
